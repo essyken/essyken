@@ -44,7 +44,7 @@ Exercise 6
 Exercise 7 
 ## Code Block
 ```HTML
-" Hello World, Welcome to Github"
+"Hello World, Welcome to Github"
 ----
 Exercise 8
 ## Block quote
